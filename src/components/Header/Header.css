@@ -1,0 +1,29 @@
+.header{
+    text-align: center;
+}
+
+.logo{
+    height: 60px;
+    margin: 10px;
+}
+.input-field{
+    width: 600px;
+    height: 25px;
+}
+.icon{
+    color: white;
+}
+.nav{
+    background-color: black;
+    line-height: 50px;
+}
+.header nav a{
+    text-decoration: none;
+    margin-right: 20px;
+    padding: 5px;
+    color:white;
+    font-size: 20px;
+}
+.header nav a:hover{
+    background-color: lightgray;
+}
